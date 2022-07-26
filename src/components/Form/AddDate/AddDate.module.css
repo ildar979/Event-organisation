@@ -1,0 +1,124 @@
+.addDateBtn {
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 182px;
+  height: 58px;
+  position: absolute;
+  bottom: 296px;
+  left: 30px;
+  border: 1px solid #9B63F8;
+  border-radius: 4px;
+  background: #FFFFFF;
+  color: #211536;
+}
+
+.start__date_label {
+  font-size: 16px;
+  width: 105px;
+  height: 20px;
+  position: absolute;
+  bottom: 457px;
+  left: 30px;
+  color: #211536;
+}
+
+.start__date_input {
+  box-sizing: border-box;
+  position: absolute;
+  width: 254px;
+  height: 58px;
+  bottom: 389px;
+  left: 29px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.start__time_label {
+  font-size: 16px;
+  width: 121px;
+  height: 20px;
+  position: absolute;
+  bottom: 457px;
+  left: 303px;
+  color: #211536;
+}
+
+.start__time_input {
+  box-sizing: border-box;
+  position: absolute;
+  width: 254px;
+  height: 58px;
+  bottom: 389px;
+  left: 303px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.finish__date_label {
+  font-size: 16px;
+  width: 138px;
+  height: 20px;
+  position: absolute;
+  bottom: 457px;
+  right: 421px;
+  color: #211536;
+}
+
+.finish__date_input {
+  box-sizing: border-box;
+  position: absolute;
+  width: 254px;
+  height: 58px;
+  bottom: 389px;
+  right: 305px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+  font-size: 16px;
+  font-size: 16px;
+}
+
+.finish__time_label {
+  font-size: 16px;
+  width: 154px;
+  height: 20px;
+  position: absolute;
+  bottom: 457px;
+  right: 131px;
+  color: #211536;
+}
+
+.finish__time_input {
+  box-sizing: border-box;
+  position: absolute;
+  width: 254px;
+  height: 58px;
+  bottom: 389px;
+  right: 31px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.deffis {
+  position: absolute;
+  width: 55px;
+  height: 2px;
+  background: #CDB1FB;
+  border-radius: 5px;
+  left: 572px;
+  bottom: 417px;
+}
+
+.deleteBtn {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #351767;
+  color: white;
+  font-size: 20px;
+  border-radius: 15px;
+  right: -15px;
+  bottom: 115px;
+}

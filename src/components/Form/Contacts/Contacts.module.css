@@ -1,0 +1,94 @@
+.contacts {
+  
+}
+
+.contacts__label {
+  font-size: 18px;
+    width: 195px;
+    height: 22px;
+    position: absolute;
+    top: 230px;
+    left: 30px;
+}
+
+.inputsContactDetails {
+  display: flex;
+}
+
+.phoneNumber {
+  display: flex;
+    flex-direction: column;
+}
+
+.phoneNumber__label {
+  width: 75px;
+    height: 20px;
+    font-size: 16px;
+    position: absolute;
+    top: 282px;
+    left: 30px;
+    color: #211536;
+}
+
+.phoneNumber__input {
+  box-sizing: border-box;
+  width: 367px;
+  height: 58px;
+  position: absolute;
+  top: 312px;
+  left: 30px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+}
+
+.mail {
+  display: flex;
+    flex-direction: column;
+}
+
+.mail__label {
+  width: 53px;
+    height: 20px;
+    font-size: 16px;
+    position: absolute;
+    top: 282px;
+    left: 416px;
+    color: #211536;
+}
+
+.mail__input {
+  box-sizing: border-box;
+  width: 367px;
+  height: 58px;
+  position: absolute;
+  top: 312px;
+  left: 416px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+}
+
+.city {
+  display: flex;
+    flex-direction: column;
+}
+
+.city__label {
+  width: 173px;
+    height: 20px;
+    font-size: 16px;
+    position: absolute;
+    top: 282px;
+    right: 224px;
+    color: #211536;
+}
+
+.city__input {
+  box-sizing: border-box;
+  width: 367px;
+  height: 58px;
+  position: absolute;
+  top: 312px;
+  right: 30px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+}

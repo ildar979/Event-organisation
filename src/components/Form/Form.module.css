@@ -1,0 +1,31 @@
+.abortBtn {
+  box-sizing: border-box;
+    width: 285px;
+    height: 58px;
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+    font-size: 16px;
+    color: #211536;
+    background: #FFFFFF;
+    border: 1px solid #9B63F8;
+    border-radius: 4px;
+}
+
+.nextBtn {
+  box-sizing: border-box;
+    width: 285px;
+    height: 58px;
+    position: absolute;
+    bottom: 50px;
+    left: 335px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #9B63F8;;
+    border: 1px solid #9B63F8;
+    border-radius: 4px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

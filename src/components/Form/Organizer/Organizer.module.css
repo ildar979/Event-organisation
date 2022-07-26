@@ -1,0 +1,37 @@
+.organizator {
+
+}
+
+.organizator__title {
+  font-size: 18px;
+  position: absolute;
+  width: 296px;
+  height: 22px;
+  top: 40px;
+  left: 30px;
+  color: #211536;
+}
+
+.organizator__label {
+  position: absolute;
+  top: 102px;
+  left: 30px;
+  font-size: 16px;
+  color: #211536;
+}
+
+.organizator__input {
+  width: 1141px;
+    height: 51px;
+    position: absolute;
+    top: 132px;
+    left: 30px;
+    border: 1px solid #CDB1FB;
+    border-radius: 4px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}

@@ -1,0 +1,59 @@
+.additionalInfo {
+  display: flex;
+}
+
+.rate {
+  display: flex;
+  flex-direction: column;
+}
+
+.rate__label {
+  box-sizing: border-box;
+  font-size: 16px;
+    width: 193px;
+    height: 20px;
+    position: absolute;
+    bottom: 226px;
+    left: 30px;
+    color: #211536;
+}
+
+.rate__input {
+  box-sizing: border-box;
+  width: 562px;
+  height: 58px;
+  position: absolute;
+  bottom: 158px;
+  left: 30px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+  font-size: 18px;
+  background-color: white;
+}
+
+.adress {
+  display: flex;
+  flex-direction: column;
+}
+
+.adress__label {
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 176px;
+  height: 20px;
+    position: absolute;
+    bottom: 226px;
+    right: 412px;
+    color: #211536;
+}
+
+.adress__input {
+  box-sizing: border-box;
+  width: 562px;
+  height: 58px;
+  position: absolute;
+  bottom: 158px;
+  right: 28px;
+  border: 1px solid #CDB1FB;
+  border-radius: 4px;
+}

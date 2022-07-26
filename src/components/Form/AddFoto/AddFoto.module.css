@@ -1,0 +1,26 @@
+.btnAddFoto {
+  box-sizing: border-box;
+  width: 126px;
+  height: 126px;
+  background: #F8F8FE;
+  border: 4px solid #CDB1FB;
+  border-radius: 4px;
+  position: absolute;
+  left: 40px;
+  top: 640px;
+}
+
+.btnAddFoto__logo {
+  font-size: 56px;
+  color: #9B63F8;
+}
+
+.btnAddFoto__discription {
+  width: 126px;
+    height: 28px;
+    font-size: 10px;
+    color: #2115369c;
+    position: absolute;
+    left: 47px;
+    top: 776px;
+}
